@@ -1,0 +1,18 @@
+"APPLE_ID" = "APPLE KİMLİĞİ";
+"USE_CUSTOM_FIRST_NAME" = "Özel Ad Kullanın";
+"FIRST_NAME" = "İsim";
+"USE_CUSTOM_LAST_NAME" = "Özel Soyad Kullan";
+"LAST_NAME" = "Soyad";
+"ICONS" = "SİMGELER";
+"HIDE_CELL_ICONS" = "Hücre Simgelerini Gizle";
+"USE_ROUND_CELL_ICONS" = "Yuvarlak Hücre Simgelerini Kullan";
+"CHEVRONS" = "Chevrons";
+"HIDE_DISCLOSURE_ARROW" = "Açıklama Okunu Gizle";
+"SECTIONS" = "BÖLüMLER";
+"HIDE_THIRD_PARTY" = "3. Parti Uygulamalarını Gizle";
+"HIDE_EXPOSURE_NOTIFICATIONS" = "Karşılaşma Bildirimlerini Gizle";
+"NETWORK" = "AĞ";
+"WIFI_SECTION" = "WiFi Bölümü";
+"WIFI_SECTION_SUBTITLE" = "Mevcut IP Adresini Göster";
+"SETTINGS" = "Ayarlar";
+

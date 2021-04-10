@@ -1,5 +1,5 @@
 "DISABLING" = "DEVRE DIŞI";
-"DISABLE_APP_LIBRARY" = "Uygulama Kütüphanesini Devre Dışı Bırak";
+"DISABLE_APP_LIBRARY" = "Uygulama Arşivini Devre Dışı Bırak";
 "STYLE" = "STİL";
 "OPEN_LIST_MODE" = "Liste Modunda Aç";
 "LISTMODE_SUBTITLE" = "Her zaman uygulama listesini aç";
@@ -16,4 +16,4 @@
 "HAPTICS" = "HAPTİKLER";
 "HAPTIC_OPEN" = "Haptik Açık";
 "HAPTIC_CLOSE" = "Haptik Kapalı";
-"APP_LIBRARY" = "Uygulama Kütüphanesi";
+"APP_LIBRARY" = "Uygulama Arşivi";
